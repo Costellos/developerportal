@@ -1,0 +1,3 @@
+[submodule "ifm3d-library"]
+	path = ifm3d-library
+	url = https://github.com/lola-masson/ifm3d/
